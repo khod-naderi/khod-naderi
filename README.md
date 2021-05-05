@@ -8,7 +8,7 @@
 - 🛑 But I'm still small and amateur
 - 💼 I want to be a professional programmer when I grow up
 - 📚 So for now, I am studying well
-- 🙃 right now, I can not speak English very well
+- 😁 right now, I can not speak English very well
 
 <br />
 <a href="https://github.com/khod-naderi">
