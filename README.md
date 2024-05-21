@@ -16,7 +16,7 @@
 
 - 🤓 I like to learn everything
 - 💬 Ask me about **Astronomy, Python, Linux and Cosmology**
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **khod.naderi@gmail.com**
 
 <br />
 <a href="https://github.com/khod-naderi">
