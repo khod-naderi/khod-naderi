@@ -19,21 +19,19 @@
 - 📫 How to reach me **khod.naderi@gmail.com**
 
 <br />
-<a href="https://github.com/khod-naderi">
+<a align="center" href="https://github.com/khod-naderi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khod-naderi&show_icons=true&theme=gruvbox"alt="Ali Naderi github stats" />
 </a>
 <br />
-<a href="https://github.com/khod-naderi">
+<a align="center" href="https://github.com/khod-naderi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khod-naderi&layout=compact&theme=gruvbox" />
 </a>
 
 <hr />
 
-**Languages and Tools:**  
+**Some Languages and Tools:**  
+<img src="https://skillicons.dev/icons?i=php,py,js,c,cpp,matlab,linux,arduino,latex,qt,arch" />
 
-
-<img src="https://skillicons.dev/icons?i=php,py,js,c,cpp,matlab,linux" />
-<img src="https://skillicons.dev/icons?i=arduino,latex,qt,arch" />
 
 
 
