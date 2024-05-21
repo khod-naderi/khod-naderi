@@ -32,7 +32,7 @@
 **Languages and Tools:**  
 
 
-<img src="https://skillicons.dev/icons?i=php,py,js,c,cpp,vb,linux" />
+<img src="https://skillicons.dev/icons?i=php,py,js,c,cpp,asm,linux" />
 
 
 
