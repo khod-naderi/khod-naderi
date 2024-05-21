@@ -7,16 +7,15 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="tel.gif" alt="icon" width="50" height="50" />
 </div>
 
 
 <hr />
 
 - 🤓 I like to learn everything
-- 🛑 But I'm still small and amateur
-- 💼 I want to be a professional programmer when I grow up
-- 📚 So for now, I am studying well
-- 😁 right now, I can not speak English very well
+- 💬 Ask me about **Astronomy, Python, Linux and Cosmology**
+- 📫 How to reach me **supunnanayakkara01@gmail.com**
 
 <br />
 <a href="https://github.com/khod-naderi">
@@ -41,6 +40,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/></code>
 <code><img height="20" src="./assets/vb.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/></code>
+<img src="https://skillicons.dev/icons?i=php,py" />
 
 
 
