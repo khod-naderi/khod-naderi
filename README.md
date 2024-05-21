@@ -21,11 +21,12 @@
 <div align="center">
 <br />
 <a href="https://github.com/khod-naderi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khod-naderi&show_icons=true&theme=gruvbox"alt="Ali Naderi github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khod-naderi&layout=compact&theme=gruvbox" />
 </a>
 <br />
+<br />
 <a href="https://github.com/khod-naderi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khod-naderi&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khod-naderi&show_icons=true&theme=gruvbox"alt="Ali Naderi github stats" />
 </a>
 </div>
 
