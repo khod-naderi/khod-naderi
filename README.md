@@ -18,14 +18,16 @@
 - 💬 Ask me about **Astronomy, Python, Linux and Cosmology**
 - 📫 How to reach me **khod.naderi@gmail.com**
 
+<div align="center">
 <br />
-<a align="center", href="https://github.com/khod-naderi">
+<a href="https://github.com/khod-naderi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khod-naderi&show_icons=true&theme=gruvbox"alt="Ali Naderi github stats" />
 </a>
 <br />
-<a align="center", href="https://github.com/khod-naderi">
+<a href="https://github.com/khod-naderi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khod-naderi&layout=compact&theme=gruvbox" />
 </a>
+</div>
 
 <hr />
 
