@@ -8,7 +8,6 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="tel.gif" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 
@@ -33,7 +32,7 @@
 <hr />
 
 **Some Languages and Tools:**  
-<img src="https://skillicons.dev/icons?i=php,py,js,c,cpp,matlab,linux,arduino,latex,qt,arch" />
+<img src="https://skillicons.dev/icons?i=php,py,js,c,cpp,matlab,linux,latex,arch" />
 
 
 
